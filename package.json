@@ -1,0 +1,16 @@
+{
+  "name": "travalap-bot",
+  "version": "1.0.0",
+  "description": "Bot de WhatsApp conectado a Telegram para TRAVALAP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.5",
+    "axios": "^1.7.9",
+    "pino": "^9.6.0",
+    "yt-search": "^2.12.1"
+  }
+}
